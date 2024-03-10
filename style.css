@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Outfit', sans-serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 400px;
     font-style: normal;
 }
 
@@ -24,7 +24,7 @@ html {
     max-width: 330px;
     height: auto;
     background-color: white;
-    margin: 160px auto 20px;
+    margin: 130px auto 20px;
     border-radius: 30px;
     box-sizing: border-box;
 }
@@ -35,11 +35,11 @@ html {
     max-width: 330px;
     border-radius: 30px;
     padding: 20px;
-    padding-bottom: 40px;
+   
 }
 
 .main h1{
-    font-size: 15px;
+    font-size: 25px;
     padding: 20px;
 }
 .para {
@@ -54,7 +54,7 @@ html {
         max-width: 300px;
         height: auto;
         background-color: white;
-        margin: 160px auto 20px;
+        margin: 130px auto 20px;
         border-radius: 30px;
         box-sizing: border-box;
     }
@@ -63,6 +63,6 @@ html {
         max-width: 300px;
         border-radius: 30px;
         padding: 20px;
-        padding-bottom: 40px;
+       
     }
 }
