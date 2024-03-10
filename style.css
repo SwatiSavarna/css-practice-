@@ -32,7 +32,7 @@ html {
     text-align: center;
 }
 .main img {
-    max-width: 330px;
+    max-width: 100%;
     border-radius: 30px;
     padding: 20px;
    
